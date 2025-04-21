@@ -1,6 +1,7 @@
-flask
-flask-cors
-scikit-learn
-numpy
-pickle-mixin
+flask  
+flask-cors  
+scikit-learn  
+numpy  
+pickle-mixin  
+gunicorn
 
