@@ -1,0 +1,4 @@
+import pickle
+
+with open("house_price_model.pkl", "rb") as f:
+    model = pickle.load(f)
